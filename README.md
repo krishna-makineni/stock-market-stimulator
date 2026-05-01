@@ -159,7 +159,7 @@ Backend runs on: **http://localhost:5000**
 
 ## 🎮 How It Works
 
-1. **Register** → Get $100,000 virtual cash
+1. **Register** → Get rs.100,000 virtual cash
 2. **Market Page** → Browse 15 live stocks with real-time prices
 3. **Buy/Sell** → Execute trades via the modal dialog
 4. **Portfolio** → Track your holdings, P&L, and allocation
